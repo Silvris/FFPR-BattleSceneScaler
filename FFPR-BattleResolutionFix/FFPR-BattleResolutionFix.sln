@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFPR-BattleResolutionFix", "FFPR-BattleResolutionFix.csproj", "{8712C81F-DEFA-48E5-BB30-EDF35A8FA873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8712C81F-DEFA-48E5-BB30-EDF35A8FA873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8712C81F-DEFA-48E5-BB30-EDF35A8FA873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8712C81F-DEFA-48E5-BB30-EDF35A8FA873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8712C81F-DEFA-48E5-BB30-EDF35A8FA873}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BF2A62C-1D05-46EA-828E-B183083EDC11}
+	EndGlobalSection
+EndGlobal
