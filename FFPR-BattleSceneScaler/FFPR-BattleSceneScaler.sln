@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFPR-BattleResolutionFix", "FFPR-BattleResolutionFix.csproj", "{8712C81F-DEFA-48E5-BB30-EDF35A8FA873}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFPR-BattleSceneScaler", "FFPR-BattleSceneScaler.csproj", "{8712C81F-DEFA-48E5-BB30-EDF35A8FA873}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

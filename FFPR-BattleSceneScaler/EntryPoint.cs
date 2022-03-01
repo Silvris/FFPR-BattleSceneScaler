@@ -10,9 +10,9 @@ using System.Threading.Tasks;
 using UnhollowerRuntimeLib;
 using UnityEngine;
 
-namespace FFPR_ResolutionFix
+namespace FFPR_BattleSceneScaler
 {
-    [BepInPlugin("silvris.ffpr.battle_resolution_fix", "Battle Resolution Fix", "1.0.0.0")]
+    [BepInPlugin("silvris.ffpr.battle_scene_scaler", "Battle Scene Scaler", "1.0.0.0")]
     [BepInProcess("FINAL FANTASY.exe")]
     [BepInProcess("FINAL FANTASY II.exe")]
     [BepInProcess("FINAL FANTASY III.exe")]
@@ -46,7 +46,7 @@ namespace FFPR_ResolutionFix
             try
             {
                 Log.LogInfo("Patching methods...");
-                Harmony harmony = new Harmony("silvris.ffpr.atb_fix");
+                Harmony harmony = new Harmony("silvris.ffpr.battle_scene_scaler");
                 harmony.PatchAll(Assembly.GetExecutingAssembly());
             }
             catch (Exception ex)
